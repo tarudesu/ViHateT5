@@ -1,0 +1,8 @@
+* Pre-training:
+VOZ-HSD: https://huggingface.co/datasets/tarudesu/VOZ-HSD
+
+
+* Downstream Tasks:
+ViHSD: https://github.com/sonlam1102/vihsd
+ViCTSD: https://huggingface.co/datasets/tarudesu/ViCTSD
+ViHOS: https://github.com/phusroyal/ViHOS (Train/Dev in https://github.com/phusroyal/ViHOS/tree/master/data/Span_Extraction_based_version; Test in https://github.com/phusroyal/ViHOS/blob/master/data/Test_data/test.csv

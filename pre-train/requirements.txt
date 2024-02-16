@@ -1,0 +1,10 @@
+datasets==2.16.1
+flax==0.7.2
+huggingface-hub==0.20.3
+jax==0.4.13
+jaxlib==0.4.13+cuda12.cudnn89
+numpy==1.24.4
+tokenizers==0.15.1
+tqdm==4.66.1
+transformers==4.37.
+wandb==0.16.2

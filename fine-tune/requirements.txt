@@ -1,0 +1,12 @@
+accelerate==0.26.1
+flax==0.7.2
+huggingface-hub==0.20.3
+jax==0.4.13
+nltk==3.8.1
+numpy==1.24.4
+scikit-learn==1.3.2
+tokenizers==0.13.3
+torch==2.1.2
+tqdm==4.66.1
+transformers==4.32.0.dev0
+wandb==0.16.2
