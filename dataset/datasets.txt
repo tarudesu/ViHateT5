@@ -1,7 +1,6 @@
 * Pre-training:
 VOZ-HSD: https://huggingface.co/datasets/tarudesu/VOZ-HSD
 
-
 * Downstream Tasks:
 ViHSD: https://github.com/sonlam1102/vihsd
 ViCTSD: https://huggingface.co/datasets/tarudesu/ViCTSD
