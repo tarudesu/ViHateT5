@@ -20,8 +20,8 @@ We follow the released code of [this repo](https://github.com/huggingface/transf
 ## Fine-tuning
 The pre-trained ViHateT5 is then fine-tuned on multiple HSD benchmark datasets, including:
 1. [ViHSD](https://github.com/sonlam1102/vihsd): Vietnamese Hate Speech Detection (Labels: HATE, OFFENSIVE, and CLEAN)
-2. [ViCTSD](https://huggingface.co/datasets/tarudesu/ViCTSD): Constructive and Toxic Speech Detection for Open-domain Social Media Comments in Vietnamese
-3. [ViHOS](https://github.com/phusroyal/ViHOS): Vietnamese Hate and Offensive Spans Detection
+2. [ViCTSD](https://huggingface.co/datasets/tarudesu/ViCTSD): Constructive and Toxic Speech Detection for Open-domain Social Media Comments in Vietnamese (TOXIC and NONE)
+3. [ViHOS](https://github.com/phusroyal/ViHOS): Vietnamese Hate and Offensive Spans Detection (Hate Speech Spans)
 
 The fine-tuned [ViHateT5-HSD](https://huggingface.co/tarudesu/ViHateT5-base-HSD) model is available on HuggingFace.
 
