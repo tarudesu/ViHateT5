@@ -14,7 +14,6 @@ nltk.download('punkt')
 # Set tokenizer parallelism to false
 os.environ["TOKENIZERS_PARALLELISM"] = 'False'
 
-
 access_token_read = '' # Add your HuggingFace access token here
 access_token_write = '' # Add your HuggingFace access token here
 
@@ -266,7 +265,6 @@ trainer = Seq2SeqTrainer(
     tokenizer=tokenizer,
     compute_metrics=compute_metrics,
 )
-
 
 print('PROGRESS|Training...')
 trainer.train()
