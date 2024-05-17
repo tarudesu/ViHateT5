@@ -1,3 +1,0 @@
-You need to clone the transformers repo in the same directory as this file.
-
-command = 'git clone https://github.com/huggingface/transformers.git'
