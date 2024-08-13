@@ -2,14 +2,19 @@
 This is the official repository for the paper [ViHateT5: Enhancing Hate Speech Detection in Vietnamese with A Unified Text-to-Text Transformer Model](LINK), which was accepted at the [ACL 2024](https://2024.aclweb.org/).
 
 ```
-@misc{nguyen2024vihatet5,
-      title={ViHateT5: Enhancing Hate Speech Detection in Vietnamese With A Unified Text-to-Text Transformer Model}, 
-      author={Luan Thanh Nguyen},
-      year={2024},
-      eprint={2405.14141},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
+@inproceedings{thanh-nguyen-2024-vihatet5,
+    title = "{V}i{H}ate{T}5: Enhancing Hate Speech Detection in {V}ietnamese With a Unified Text-to-Text Transformer Model",
+    author = "Thanh Nguyen, Luan",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Findings of the Association for Computational Linguistics ACL 2024",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand and virtual meeting",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-acl.355",
+    pages = "5948--5961"
 ```
 
 ## Introduction
